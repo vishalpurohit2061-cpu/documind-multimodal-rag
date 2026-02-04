@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain==0.3.26
+langchain-community==0.3.26
+langchain-openai==0.3.28
+faiss-cpu
+pypdf
+pdf2image
+pytesseract
+Pillow
+beautifulsoup4
+requests
+tiktoken
